@@ -1,11 +1,5 @@
-# NBA Visualization Final Project CSE 494:
+# NBA Visualization Final Project:
 
-## Team Members
-
-- Gannon Clark
-- Prashant Mokkapati
-- Nikhil Vudatha
-- Gage Gommels
 
 ## OverView
 
